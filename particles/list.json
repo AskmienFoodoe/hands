@@ -1,0 +1,20 @@
+{
+    "pageCount": 1,
+    "list": [
+        {
+            "name": "pixel",
+            "title": "Pixel",
+            "subtitle": "Sonolus"
+        },
+        {
+            "name": "classic",
+            "title": "Classic",
+            "subtitle": "Sonolus"
+        },
+        {
+            "name": "bandori.1",
+            "title": "Effect Type 1",
+            "subtitle": "Bandori"
+        }
+    ]
+}
