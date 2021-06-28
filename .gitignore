@@ -1,0 +1,4 @@
+node_modules/
+pack/
+source/
+**/.DS_STORE

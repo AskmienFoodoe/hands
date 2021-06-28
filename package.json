@@ -1,0 +1,23 @@
+{
+  "name": "hands",
+  "version": "1.0.0",
+  "description": "you won't have them anymore after this one",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AskmienFoodoe/hands.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AskmienFoodoe/hands/issues"
+  },
+  "homepage": "https://github.com/AskmienFoodoe/hands#readme",
+  "dependencies": {
+    "sonolus-generate-static": "^0.1.0",
+    "sonolus-pack": "^0.1.0"
+  }
+}
